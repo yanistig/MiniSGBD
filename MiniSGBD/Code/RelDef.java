@@ -8,7 +8,7 @@ public class RelDef {
 	
 	
 	public RelDef() {
-		//constructor of Rel Def
+		//Constructeur de RelDef
 	}
 	
 	
